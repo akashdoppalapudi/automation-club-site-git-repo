@@ -1,0 +1,15 @@
+div.col-md-4{
+    margin-bottom:3%;
+}
+
+div#contacts{
+    margin-top:5%;
+}
+
+p#contactmail{
+    display:inline;
+}
+
+div.adminoptions{
+    display:block;
+}

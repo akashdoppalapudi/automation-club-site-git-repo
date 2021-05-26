@@ -1,0 +1,14 @@
+div.col-md{
+    text-align: center;
+}
+
+nav.row{
+    margin-left: 20%;
+    margin-right:20%;
+}
+
+@media only screen and (max-width: 780px){
+    div.col-md{
+        margin-top: 1%;
+    }
+}

@@ -1,0 +1,37 @@
+button.btn{
+    margin-left:5%;
+    margin-right:5%;
+}
+
+textarea{
+    margin-bottom:1%;
+}
+
+h2.formtitle{
+    color: #FF00FF;
+}
+
+div.recentform{
+    padding: 2%;
+    border: 1px solid gray;
+    border-radius : 5%;
+    background-color: #FFFFFF;
+}
+
+textarea#message{
+    height:140px;
+}
+
+@media only screen and (max-width: 780px){
+    input{
+        margin-bottom: 2%;
+    }
+
+    textarea{
+        margin-bottom: 2%;
+    }
+
+    div.fileInput{
+        margin-bottom: 2%;
+    }
+}

@@ -1,0 +1,22 @@
+button.btn{
+    margin-left:5%;
+    margin-right:5%;
+}
+
+h2.formtitle{
+    color: #FF00FF;
+}
+
+div.contactform{
+    padding: 2%;
+    border: 1px solid gray;
+    border-radius : 5%;
+    background-color: #FFFFFF;
+}
+
+
+@media only screen and (max-width: 780px){
+    input{
+        margin-bottom: 2%;
+    }
+}

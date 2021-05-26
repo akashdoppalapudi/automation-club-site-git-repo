@@ -1,0 +1,43 @@
+@media only screen and (min-width: 780px){
+
+.about{
+    width: 100%;
+    margin-top: 15%;
+}
+
+.about p{
+    font-size: 155%;
+    margin-bottom: 0.5%;
+}
+
+.about p a{
+    text-decoration: none;
+    color: #AA0000;;
+}
+
+img{
+    width:15%;
+    margin-top: 2%;
+}
+}
+
+@media only screen and (max-width: 780px){
+    .about{
+        width: 100%;
+        margin-top: 15%;
+    }
+    
+    .about p{
+        font-size: 120%;
+        margin-bottom: 0.5%;
+    }
+    
+    .about p a{
+        text-decoration: none;
+        color: #AA0000;
+    }
+
+    img.ig-qr{
+        display:none;
+    }
+}

@@ -1,0 +1,49 @@
+ul{
+    margin-left:auto;
+    color: white;
+}
+
+Link{
+    align-content: center;
+}
+
+
+.navbar-brand > h1{
+    color: white;
+}
+
+.navbar{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+@media only screen and (min-width: 780px){
+    .navbar-brand > h1{
+        font-size: 220%;
+    }
+}
+
+@media only screen and (max-width: 780px){
+.navbar-toggler{
+    background-color:#000000;
+}
+
+.navbar-brand > h1{
+    font-size: 180%;
+}
+
+ul {
+    margin-top: 2px;
+}
+
+li{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar{
+    border-radius: 2%;
+}
+
+}
